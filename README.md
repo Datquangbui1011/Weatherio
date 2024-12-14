@@ -1,5 +1,5 @@
 
-# Weatherio - (on process)
+# Weatherio - (in processing)
 
 This project is a responsive weather application built with Vanilla JavaScript and the OpenWeather API. It provides real-time weather updates, including:
 
