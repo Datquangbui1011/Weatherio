@@ -1,25 +1,25 @@
 
-# Project Title
+# Weatherio - (on process)
 
-A brief description of what this project does and who it's for
+This project is a responsive weather application built with Vanilla JavaScript and the OpenWeather API. It provides real-time weather updates, including:
+
+Current Weather: Temperature, humidity, wind, and icons.
+5-Day Forecast: Trends for the upcoming days.
+Today's Highlights: Air quality, UV index, and more.
+Hourly Forecast: Predictions for the next 24 hours.
+Error Handling: Custom 404 page for invalid searches.
+Responsive Design: Optimized for desktop and mobile.
+Perfect for developers learning API integration and creating intuitive, user-friendly applications.
 
 ## Tech Stack
 
 **Client:** HTML, CSS, JavaScript, API
 
-## Demo
 
-Insert gif or link to demo
 
-## Features
+## Screenshots ( in processing)
 
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://github.com/user-attachments/assets/af9bbe08-5ee0-4c17-8d84-2f577ef1870e)
 
 ## Run Locally
 
